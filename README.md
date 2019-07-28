@@ -10,7 +10,7 @@ Resume: https://github.com/wafiqsyed/AboutMe/blob/master/WafiqSyedResume.pdf
 
 ![Profile](Images/ProfilePic.png)
 
-<img src="Images/ProfilePic.png" 20%>
+<img src="Images/ProfilePic.png" width="300" height="350">
 ## Education: 
 **Bachelor of Science (BSc) - Medical Science & Computer Science** 
 
