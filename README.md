@@ -2,11 +2,13 @@
 [![Email](https://img.shields.io/badge/Email-Wafiq-informational?style=for-the-badge&logo=Mail.Ru)](mailto:wafiqsyedr@gmail.com)
 
 # AboutMe
-All about **versatility.** 
+Versatile data analyst, biomedical engineering researcher, and computer programmer specializing in automation using data-driven methods. 
 
 Email: wafiqsyedr@gmail.com 
 
 Resume: https://github.com/wafiqsyed/AboutMe/blob/master/WafiqSyedResume.pdf
+
+![Profile](Images/ProfilePic.png)
 
 ## Education: 
 **Bachelor of Science (BSc) - Medical Science & Computer Science** 
