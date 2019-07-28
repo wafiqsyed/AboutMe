@@ -1,4 +1,4 @@
-<a href="https://cmillerco.com/resume/iOS-Dev-Cary-Miller.pdf" download><img src="https://img.shields.io/badge/Download-Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+[!Button] (https://img.shields.io/badge/<Email_me>-<EMAIL>-<Green>)
 
 <a href="mailto:wafiqsyedr@gmail.com"><img src="https://img.shields.io/badge/Email-cary-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
 
@@ -6,6 +6,7 @@
 
 # AboutMe
 All about **versatility.** 
+Email: wafiqsyedr@gmail.com 
 ## Education: 
 **Medical Science & Computer Science** 
 
