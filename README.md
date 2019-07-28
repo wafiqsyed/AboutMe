@@ -7,7 +7,9 @@
 
 # AboutMe
 All about **versatility.** 
+
 Email: wafiqsyedr@gmail.com 
+
 Resume: https://github.com/wafiqsyed/AboutMe/blob/master/WafiqSyedResume.pdf
 
 ## Education: 
