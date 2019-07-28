@@ -1,4 +1,4 @@
-[![Resume](https://img.shields.io/badge/Download-Resume-success?style=for-the-badge)](Resume.pdf)
+[![Resume](https://img.shields.io/badge/Download-Resume-success?style=for-the-badge)](Wafiq Syed - Resume.pdf)
 [![Email](https://img.shields.io/badge/Email-Wafiq-informational?style=for-the-badge&logo=Mail.Ru)](mailto:wafiqsyedr@gmail.com)
 
 
