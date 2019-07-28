@@ -1,4 +1,4 @@
-[!Button] (https://img.shields.io/badge/<Email_me>-<EMAIL>-<Green>)
+[Button] (https://img.shields.io/badge/Email%20me-Click-green)
 
 <a href="mailto:wafiqsyedr@gmail.com"><img src="https://img.shields.io/badge/Email-cary-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
 
