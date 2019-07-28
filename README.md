@@ -1,6 +1,7 @@
-[![Email](https://img.shields.io/badge/Email-Wafiq-success?style=for-the-badge&logo=Mail.Ru)](mailto:wafiqsyedr@gmail.com)
+[![Resume](https://img.shields.io/badge/Download-Resume-success?style=for-the-badge)](Resume.pdf)
+[![Email](https://img.shields.io/badge/Email-Wafiq-informational?style=for-the-badge&logo=Mail.Ru)](mailto:wafiqsyedr@gmail.com)
 
-<a href="mailto:wafiqsyedr@gmail.com"><img src="https://img.shields.io/badge/Email-cary-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
+
 
 
 
