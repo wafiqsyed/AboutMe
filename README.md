@@ -26,9 +26,11 @@ Here are some of the apps I've developed:
 
 Apple-Pie (Hangman): 
 
+[ApplePie](Images/applePieUI.png)
+
 Calculator: https://github.com/wafiqsyed/Calculator-App-iOS
 
-[CalculatorImage](https://github.com/wafiqsyed/Calculator-App-iOS/blob/master/storyboard.png)
+[CalculatorImage](Images/calculatorUI.png)
 
 
 
