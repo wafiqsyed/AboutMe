@@ -23,8 +23,11 @@ Currently, at the London Health Sciences Centre, I'm developing a Python applica
 #### iOS App Development (Swift/XCode)
 I have a great passion for app development. Frameworks such as Augmented Reality bring an entire new world of possibilities.
 Here are some of the apps I've developed:
+
 Apple-Pie (Hangman): 
-Calculator: 
+
+Calculator: https://github.com/wafiqsyed/Calculator-App-iOS
+[CalculatorImage](../Calculator-App-iOS/blob/master/storyboard.png)
 
 
 
