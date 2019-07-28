@@ -33,6 +33,7 @@ Calculator: https://github.com/wafiqsyed/Calculator-App-iOS
 
 ![CalculatorImage](Images/calculatorUI.png)
 
+Thanks for having a read! I welcome new opportunities and projects. Please email me at wafiqsyedr@gmail.com
 
 
 
