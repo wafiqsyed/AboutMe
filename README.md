@@ -19,8 +19,7 @@ Resume: https://github.com/wafiqsyed/AboutMe/blob/master/WafiqSyedResume.pdf
 #### Biomedical Engineering Research - Python (certified), Java, C, Bash, R
 Currently, at the London Health Sciences Centre, I'm one of the lead developers on a Python application called DBSGuide that can be incorporated into 3D MRI Slicer (a medical visualization software) to accurately visualize the brain target area for Parkinson's patients undergoing Deep Brain Stimulation (neurosurgery). Check out our work on our ReadTheDocs website: 
 
-![DBSGuide](Images/DBShome.png =250x250)
-
+<img src="Images/DBShome.png" width="500" height="500">
 #### Data/Marketing Analytics: Excel - VBA/Macros, SQL, Tableau, Mircorsoft Access & Power BI
 *Everything can be improved by automation.* The key is to identify what to automate. This is where my fascination with data analytics stems from. Data is the key to opportunity I enjoy exploring the question: how can we translate this data into optimizing processes with the aid of computer programming algorithms?
 #### iOS App Development (Swift/XCode)
