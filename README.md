@@ -28,7 +28,7 @@ Apple-Pie (Hangman):
 
 Calculator: https://github.com/wafiqsyed/Calculator-App-iOS
 
-[CalculatorImage](../Calculator-App-iOS/storyboard.png)
+[CalculatorImage](https://github.com/wafiqsyed/Calculator-App-iOS/blob/master/storyboard.png)
 
 
 
