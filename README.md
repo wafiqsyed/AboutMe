@@ -1,4 +1,4 @@
-[![Email me](https://img.shields.io/badge/Email-Email%20me-green)](https://wafiqsyedr@gmail.com)
+[![Email me](https://img.shields.io/badge/Email-Email%20me-green?style=for-the-badge)](https://wafiqsyedr@gmail.com)
 
 <a href="mailto:wafiqsyedr@gmail.com"><img src="https://img.shields.io/badge/Email-cary-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;
 
