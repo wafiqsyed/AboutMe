@@ -7,6 +7,6 @@
 **Univeristy of Western Ontario (UWO)**
 
 ### Roles: 
-#### Data/Marketing Analyst
+#### Data/Marketing Analytics
 #### Biomedical Engineering Research
 #### iOS App Development
