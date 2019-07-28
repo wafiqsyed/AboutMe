@@ -24,7 +24,7 @@ Currently, at the London Health Sciences Centre, I'm developing a Python applica
 I have a great passion for app development. Frameworks such as Augmented Reality bring an entire new world of possibilities.
 Here are some of the apps I've developed:
 
-Apple-Pie (Hangman): 
+Apple-Pie (Hangman): https://github.com/wafiqsyed/Apple-Pie
 
 ![ApplePie](Images/applePieUI.png)
 
