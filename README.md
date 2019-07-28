@@ -8,6 +8,8 @@
 # AboutMe
 All about **versatility.** 
 Email: wafiqsyedr@gmail.com 
+Resume: https://github.com/wafiqsyed/AboutMe/blob/master/WafiqSyedResume.pdf
+
 ## Education: 
 **Bachelor of Science (BSc) - Medical Science & Computer Science** 
 
