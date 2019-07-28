@@ -1,7 +1,7 @@
 [![Resume](https://img.shields.io/badge/View-Resume-success?style=for-the-badge)](WafiqSyedResume.pdf)
 [![Email](https://img.shields.io/badge/Email-Wafiq-informational?style=for-the-badge&logo=Mail.Ru)](mailto:wafiqsyedr@gmail.com)
 
-# Welcome!
+# Welcome to My Portfolio!
 Versatile data analyst, biomedical engineering researcher, and computer programmer specializing in automation using data-driven methods. 
 
 Email: wafiqsyedr@gmail.com 
