@@ -8,9 +8,9 @@ Email: wafiqsyedr@gmail.com
 
 Resume: https://github.com/wafiqsyed/AboutMe/blob/master/WafiqSyedResume.pdf
 
-![Profile[20%](Images/ProfilePic.png)
+![Profile](Images/ProfilePic.png)
 
-<img src="Images/ProfilePic.png" width="256" height="256">
+<img src="Images/ProfilePic.png" 20%>
 ## Education: 
 **Bachelor of Science (BSc) - Medical Science & Computer Science** 
 
