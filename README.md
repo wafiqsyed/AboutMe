@@ -2,7 +2,7 @@
 [![Email](https://img.shields.io/badge/Email-Wafiq-informational?style=for-the-badge&logo=Mail.Ru)](mailto:wafiqsyedr@gmail.com)
 
 # Welcome to My Portfolio!
-Versatile data analyst, biomedical engineering researcher, and computer programmer specializing in automation using data-driven methods. 
+Short summary: Versatile data analyst, biomedical engineering researcher, and computer programmer specializing in automation using data-driven methods. 
 
 Email: wafiqsyedr@gmail.com 
 
