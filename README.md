@@ -9,9 +9,7 @@
 All about **versatility.** 
 Email: wafiqsyedr@gmail.com 
 ## Education: 
-**Medical Science & Computer Science** 
-
-**Bachelor of Science (BSc)**
+**Bachelor of Science (BSc) - Medical Science & Computer Science** 
 
 **Univeristy of Western Ontario (UWO)**
 
