@@ -1,5 +1,5 @@
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn.Ru)](https://www.linkedin.com/in/wafiqsyed/)
-[![Resume](https://img.shields.io/badge/Resume-success?style=for-the-badge&logo=DocuSign.Ru)](WafiqSyedResume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/wafiqsyed/)
+[![Resume](https://img.shields.io/badge/Resume-success?style=for-the-badge&logo=DocuSign)](WafiqSyedResume.pdf)
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Mail.Ru)](mailto:wafiqsyedr@gmail.com)
 
 # Welcome to My Portfolio!
