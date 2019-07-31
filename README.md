@@ -5,6 +5,8 @@
 # Welcome to My Portfolio!
 Short summary: Versatile data analyst, biomedical engineering researcher, and computer programmer specializing in automation using data-driven methods. 
 
+LinkedIn: https://www.linkedin.com/in/wafiqsyed/
+
 Email: wafiqsyedr@gmail.com 
 
 Resume: https://github.com/wafiqsyed/AboutMe/blob/master/WafiqSyedResume.pdf
