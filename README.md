@@ -2,6 +2,8 @@
 [![Resume](https://img.shields.io/badge/Resume-success?style=for-the-badge&logo=DocuSign)](WafiqSyedResume.pdf)
 [![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=Mail.Ru)](mailto:wafiqsyedr@gmail.com)
 
+[![Data](https://img.shields.io/badge/Proramming-Python-Java-C-Swift--blue?style=for-the-badge)
+
 # Welcome to My Portfolio!
 Short summary: Versatile data analyst, biomedical engineering researcher, and computer programmer specializing in automation using data-driven methods. 
 
