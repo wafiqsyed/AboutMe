@@ -1,3 +1,4 @@
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-success?style=for-the-badge&logo=LinkedIn.Ru)](https://www.linkedin.com/in/wafiqsyed/)
 [![Resume](https://img.shields.io/badge/View-Resume-success?style=for-the-badge)](WafiqSyedResume.pdf)
 [![Email](https://img.shields.io/badge/Email-Wafiq-informational?style=for-the-badge&logo=Mail.Ru)](mailto:wafiqsyedr@gmail.com)
 
