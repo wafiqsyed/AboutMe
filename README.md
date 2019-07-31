@@ -2,7 +2,9 @@
 [![Resume](https://img.shields.io/badge/Resume-success?style=for-the-badge&logo=DocuSign)](WafiqSyedResume.pdf)
 [![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=Mail.Ru)](mailto:wafiqsyedr@gmail.com)
 
-[![Data](https://img.shields.io/badge/Proramming-Python-Java-C-Swift--blue?style=for-the-badge)]
+[![Toolkit](https://img.shields.io/badge/My-Toolkit-success?style=flat&logo=appveyor)]
+[![Data](https://img.shields.io/badge/Data-SQL%2C%20Excel%2C%20VBA%2C%20Tableau%2C%20Microsoft%20Access%2C%20Power%20BI%2C%20Sharepoint-informational?style=flat&logo=appveyor)]
+[![Programming](https://img.shields.io/badge/Programming-Python%2C%20Java%2C%20Swift(iOS)%2C%20C%2C%20R-important?style=flat&logo=appveyor)]
 
 # Welcome to My Portfolio!
 Short summary: Versatile data analyst, biomedical engineering researcher, and computer programmer specializing in automation using data-driven methods. 
