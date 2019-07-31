@@ -1,12 +1,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/wafiqsyed/)
 [![Resume](https://img.shields.io/badge/Resume-success?style=for-the-badge&logo=DocuSign)](WafiqSyedResume.pdf)
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=Mail.Ru)](mailto:wafiqsyedr@gmail.com)
-
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/wafiqsyed"
-
+[![Email](https://img.shields.io/badge/Email-9cf?style=for-the-badge&logo=Mail.Ru)](mailto:wafiqsyedr@gmail.com)
 
 # Welcome to My Portfolio!
 Short summary: Versatile data analyst, biomedical engineering researcher, and computer programmer specializing in automation using data-driven methods. 
