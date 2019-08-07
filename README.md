@@ -1,4 +1,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=LinkedIn)](https://www.linkedin.com/in/wafiqsyed/)
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCljnX5uQA-rmDGKGx_1kjqA)
 [![Resume](https://img.shields.io/badge/Resume-success?style=for-the-badge&logo=DocuSign)](WafiqSyedResume.pdf)
 [![Email](https://img.shields.io/badge/Email-orange?style=for-the-badge&logo=Mail.Ru)](mailto:wafiqsyedr@gmail.com)
 
